@@ -10,6 +10,6 @@
 |`touch`|Tworzenie pustego pliku lub aktualizacja czasu jego modyfikacji.|
 |`cp`|Kopiowanie pliku; wspomnij o opcji -r dla katalogów.|
 |`mv`|Przenoszenie i zmiana nazwy pliku.|
-|`rm`|Usuwanie pliku i ostrzeżenie, że operacja omija kosz.
+|`rm`|Usuwanie pliku i ostrzeżenie, że operacja omija kosz i usuwa pliki bez kosza |
 |`cat`|Wyświetlanie zawartości pliku w terminalu.|
 |`clear`|Czyszczenie widoku terminala bez usuwania historii poleceń.|

@@ -1,6 +1,6 @@
 # Zestaw komend WARP do udokumentowania
 
-| Polecenie | Znaczenie |
+| Polecenie | Znaczenie | jajco 
 |`git clone`|Pobranie repozytorium i utworzenie lokalnego katalogu|
 |`git status`|Sprawdzenie gałęzi oraz plików zmienionych i przygotowanych|
 |`git add`|Dodanie konkretnego pliku do obszaru staging|
